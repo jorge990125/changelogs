@@ -1,4 +1,4 @@
-fetch('commits.json')
+fetch('/commits.json')
   .then(res => res.json())
   .then(data => {
     const container = document.getElementById('changelog');
