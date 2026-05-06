@@ -3696,5 +3696,320 @@
     "date": "Sun Feb 8 11:49:43 2026 -0500",
     "message": "archive sql",
     "files": ["data/Archivados/auth/2025/2025_07_04_rew.sql", "data/Archivados/auth/2025/2025_07_14 account_mount.sql", "data/Archivados/auth/2025/2025_07_14 support_quest.sql", "data/Archivados/auth/2025/2025_07_17 Mod_level_booster.sql", "data/Archivados/auth/2025/2025_12_07 wow_token.sql", "data/Archivados/auth/2025/2025_12_10 update_vip.sql", "data/Archivados/auth/2025/2026_01_15 tag.sql", "data/Archivados/characters/2025/2025_07_04_rew.sql", "data/Archivados/characters/2025/2025_12_13 store_ingame.sql", "data/Archivados/world/2025/06-2025/2025_06_10 tol_barad.sql", "data/Archivados/world/2025/06-2025/2025_06_13 delete.sql", "data/Archivados/world/2025/06-2025/2025_06_13 world.sql", "data/Archivados/world/2025/06-2025/2025_06_14 phase_portal.sql", "data/Archivados/world/2025/06-2025/2025_06_17 fin_de_los_dias.sql", "data/Archivados/world/2025/06-2025/2025_06_19 Gurthalak.sql", "data/Archivados/world/2025/06-2025/2025_06_19 item_custom.sql", "data/Archivados/world/2025/06-2025/2025_06_19 levelup.sql", "data/Archivados/world/2025/06-2025/2025_06_19 npc_custom.sql", "data/Archivados/world/2025/06-2025/2025_06_19 npc_profesiones.sql", "data/Archivados/world/2025/06-2025/2025_06_19_DBErrors_Corrections.sql", "data/Archivados/world/2025/06-2025/2025_06_19_ResearchSitesCorrupted.sql", "data/Archivados/world/2025/06-2025/2025_06_20_uldum_questline.sql", "data/Archivados/world/2025/06-2025/2025_06_21_DBErrors_Corrections.sql", "data/Archivados/world/2025/06-2025/2025_06_22 quest_poi.sql", "data/Archivados/world/2025/06-2025/2025_06_22_Uldum_Questline.sql", "data/Archivados/world/2025/06-2025/2025_06_25_Tierras_Altas_Crepusculares001.sql", "data/Archivados/world/2025/06-2025/2025_06_25_Tierras_Altas_Crepusculares002.sql", "data/Archivados/world/2025/06-2025/2025_06_26 world_quets.sql", "data/Archivados/world/2025/06-2025/2025_06_27_Tierras_Altas_Crepusculares003.sql", "data/Archivados/world/2025/06-2025/2025_06_28_Global_Work.sql", "data/Archivados/world/2025/06-2025/2025_06_28_Quest_26209.sql", "data/Archivados/world/2025/06-2025/2025_06_29 quest_uldum.sql", "data/Archivados/world/2025/06-2025/2025_06_30 Spell_deepholm_intro_teleport.sql", "data/Archivados/world/2025/06-2025/2025_06_30 duplicate_npc_grimbatol.sql", "data/Archivados/world/2025/06-2025/2025_06_30 vip.sql", "data/Archivados/world/2025/07-2025/2025_07_01 temporada_pvp.sql", "data/Archivados/world/2025/07-2025/2025_07_01_Kezan.sql", "data/Archivados/world/2025/07-2025/2025_07_03_goblin_questline.sql", "data/Archivados/world/2025/07-2025/2025_07_07 dagas_legendarias_01.sql", "data/Archivados/world/2025/07-2025/2025_07_07 dagas_legendarias_02.sql", "data/Archivados/world/2025/07-2025/2025_07_07 dagas_legendarias_03.sql", "data/Archivados/world/2025/07-2025/2025_07_08 dagas_legendarias_04_final.sql", "data/Archivados/world/2025/07-2025/2025_07_08_baston_legendario.sql", "data/Archivados/world/2025/07-2025/2025_07_09 Miss_Danna_and_children.sql", "data/Archivados/world/2025/07-2025/2025_07_09 faeri_dragon_event.sql", "data/Archivados/world/2025/07-2025/2025_07_09 juguetero_ventormenta.sql", "data/Archivados/world/2025/07-2025/2025_07_09 world_fix.sql", "data/Archivados/world/2025/07-2025/2025_07_09_Uldum_Alianza_Estetica.sql", "data/Archivados/world/2025/07-2025/2025_07_12 dragon_soul.sql", "data/Archivados/world/2025/07-2025/2025_07_12 npc_stormwind.sql", "data/Archivados/world/2025/07-2025/2025_07_12 world_fix.sql", "data/Archivados/world/2025/07-2025/2025_07_12_arena_spectator_npc.sql", "data/Archivados/world/2025/07-2025/2025_07_13 ds_npc_twilight_siege_breaker.sql", "data/Archivados/world/2025/07-2025/2025_07_13 gameobject.sql", "data/Archivados/world/2025/07-2025/2025_07_14 dalaran.sql", "data/Archivados/world/2025/07-2025/2025_07_14 maestria.sql", "data/Archivados/world/2025/07-2025/2025_07_14 support_quest.sql", "data/Archivados/world/2025/07-2025/2025_07_14 world_fix.sql", "data/Archivados/world/2025/07-2025/2025_07_15 burgy_corazon_negro.sql", "data/Archivados/world/2025/07-2025/2025_07_15 comerciante_de_alma_eterea.sql", "data/Archivados/world/2025/07-2025/2025_07_15 spell_group.sql", "data/Archivados/world/2025/07-2025/2025_07_16 loot_heroico_trono_de_las_mareas.sql", "data/Archivados/world/2025/07-2025/2025_07_16 vendedores_de_hermandad.sql", "data/Archivados/world/2025/07-2025/2025_07_16 world_fix.sql", "data/Archivados/world/2025/07-2025/2025_07_17 aeonax.sql", "data/Archivados/world/2025/07-2025/2025_07_17 auras_duplicadas.sql", "data/Archivados/world/2025/07-2025/2025_07_17 npc_31582.sql", "data/Archivados/world/2025/07-2025/2025_07_17 tolvir.sql", "data/Archivados/world/2025/07-2025/2025_07_17 world_fix.sql", "data/Archivados/world/2025/07-2025/2025_07_18 dk_dancing_rune_weapon.sql", "data/Archivados/world/2025/07-2025/2025_07_19  El_churumbele_de_Smoot.sql", "data/Archivados/world/2025/07-2025/2025_07_19 npcs_Naraat_Farseer.sql", "data/Archivados/world/2025/07-2025/2025_07_19 pesca.sql", "data/Archivados/world/2025/07-2025/2025_07_19 portal_maelstrom.sql", "data/Archivados/world/2025/07-2025/2025_07_19_daily_quest.sql", "data/Archivados/world/2025/07-2025/2025_07_20 akmahat.sql", "data/Archivados/world/2025/07-2025/2025_07_20_db_errors.sql", "data/Archivados/world/2025/07-2025/2025_07_20_issue_Quest_Sellando_el_camino.sql", "data/Archivados/world/2025/07-2025/2025_07_21_issue_Quest_Vashir.sql", "data/Archivados/world/2025/07-2025/2025_07_22 Quest_Sellando_el_camino_final.sql", "data/Archivados/world/2025/07-2025/2025_07_22 bastion_del_crepusculo.sql", "data/Archivados/world/2025/07-2025/2025_07_22 vendedores_pvp_area_51.sql", "data/Archivados/world/2025/07-2025/2025_07_22_07 protrodraco_tiempo_perdido.sql", "data/Archivados/world/2025/07-2025/2025_07_22_07_issue_solved.sql", "data/Archivados/world/2025/07-2025/2025_07_24 delete_spell_script.sql", "data/Archivados/world/2025/07-2025/2025_07_24 valiona.sql", "data/Archivados/world/2025/07-2025/2025_07_24_fix.sql", "data/Archivados/world/2025/07-2025/2025_07_25 world_fix.sql", "data/Archivados/world/2025/07-2025/2025_07_25_herbalis_not_fix_just_drop_counter.sql", "data/Archivados/world/2025/07-2025/2025_07_26 delete_creature.sql", "data/Archivados/world/2025/07-2025/2025_07_27 creature_model.sql", "data/Archivados/world/2025/07-2025/2025_07_27 guild_vendor_incorrecto.sql", "data/Archivados/world/2025/07-2025/2027_07_28 faucemagma.sql", "data/Archivados/world/2025/07-2025/2027_07_31 darkmmon_part_1.sql", "data/Archivados/world/2025/07-2025/2027_07_31 darkmmon_part_2.sql", "data/Archivados/world/2025/07-2025/2027_07_31 game_event.sql", "data/Archivados/world/2025/07-2025/2027_07_31 holiday_dates.sql", "data/Archivados/world/2025/08-2025/2025_08_01 creature_onkill_reward.sql", "data/Archivados/world/2025/08-2025/2025_08_01 tierras_altas_crepusculares_intro.sql", "data/Archivados/world/2025/08-2025/2025_08_01 token_traduccion.sql", "data/Archivados/world/2025/08-2025/2025_08_02 portales_ds.sql", "data/Archivados/world/2025/08-2025/2025_08_03 npc_instance_reset.sql", "data/Archivados/world/2025/08-2025/2025_08_05 posicion_no_muerto_inicial.sql", "data/Archivados/world/2025/08-2025/2025_08_05 racial_orco_ordenar.sql", "data/Archivados/world/2025/08-2025/2025_08_06 la_ciencia_de_la_mezcla.sql", "data/Archivados/world/2025/08-2025/2025_08_06 stack_pociones.sql", "data/Archivados/world/2025/08-2025/2025_08_10 delete.sql", "data/Archivados/world/2025/08-2025/2025_08_10 world.sql", "data/Archivados/world/2025/08-2025/2025_08_11 icc_alto_del_libramorte.sql", "data/Archivados/world/2025/08-2025/2025_08_13 trinitystring.sql", "data/Archivados/world/2025/08-2025/2025_08_14 tol_barad_queue.sql", "data/Archivados/world/2025/08-2025/2025_08_14 world.sql", "data/Archivados/world/2025/08-2025/2025_08_18 cofre_del_tesoro_diminuto.sql", "data/Archivados/world/2025/08-2025/2025_08_18 parotharn.sql", "data/Archivados/world/2025/08-2025/2025_08_19 cumulo_de_gemas_de_elementium.sql", "data/Archivados/world/2025/08-2025/2025_08_19 npc_corrupted_slime.sql", "data/Archivados/world/2025/08-2025/2025_08_20 gossip_menu_lord_afrasastrasz.sql", "data/Archivados/world/2025/08-2025/2025_08_23 quest_el_rompemundos.sql", "data/Archivados/world/2025/08-2025/2025_08_23 quest_una_calida_bienvenida.sql", "data/Archivados/world/2025/08-2025/2025_08_24 darkmoon_npc_faltantes.sql", "data/Archivados/world/2025/08-2025/2025_08_24 game_event.sql", "data/Archivados/world/2025/09-2025/2025_09_05 intendente_pve_alliance.sql", "data/Archivados/world/2025/09-2025/2025_09_05 intendente_pve_horde.sql", "data/Archivados/world/2025/09-2025/2025_09_05 intendente_pvp_alliance.sql", "data/Archivados/world/2025/09-2025/2025_09_05 intendente_pvp_horde.sql", "data/Archivados/world/2025/09-2025/2025_09_13 archaeology_sites.sql", "data/Archivados/world/2025/09-2025/2025_09_16 olympus_string.sql", "data/Archivados/world/2025/09-2025/2025_09_21 correcion_locale.sql", "data/Archivados/world/2025/09-2025/2025_09_24 archaeology_sites datos corruptos.sql", "data/Archivados/world/2025/09-2025/2025_09_29_db_error.sql", "data/Archivados/world/2025/09-2025/2025_09_29_locales_npc_42940.sql", "data/Archivados/world/2025/09-2025/2025_09_30 locales_quest.sql", "data/Archivados/world/2025/09-2025/2025_09_30_fix_world.sql", "data/Archivados/world/2025/10-2025/2025_10_01 maestria.sql", "data/Archivados/world/2025/10-2025/2025_10_02 traduccion_locales.7zip", "data/Archivados/world/2025/10-2025/2025_10_04_delete_gossipmenu_duplicate.sql", "data/Archivados/world/2025/10-2025/2025_10_05 delete_hand_creature_script.sql", "data/Archivados/world/2025/10-2025/2025_10_05 spell_priest_eco_de_luz.sql", "data/Archivados/world/2025/10-2025/2025_10_05 spell_priest_orbe_de_las_sombras.sql", "data/Archivados/world/2025/10-2025/2025_10_09 locales_npc_text.7zip", "data/Archivados/world/2025/10-2025/2025_10_10 portal_dk_zone.sql", "data/Archivados/world/2025/10-2025/2025_10_10_delete_object_custom.sql", "data/Archivados/world/2025/10-2025/2025_10_27 visitantes_dalaran.sql", "data/Archivados/world/2025/10-2025/2025_10_27_01_fix_npc_38753.sql", "data/Archivados/world/2025/10-2025/2025_10_28_00_fix_npc_3837.sql", "data/Archivados/world/2025/11-2025/2025_11-25_03_locales_OfferRewardText_and_RequestItemsText.SQL", "data/Archivados/world/2025/11-2025/2025_11_07_fix_ip2nationCountries.sql", "data/Archivados/world/2025/11-2025/2025_11_12_00_locales_npc_text_34668.sql", "data/Archivados/world/2025/11-2025/2025_11_13_00_locales_creature_34872.sql", "data/Archivados/world/2025/11-2025/2025_11_13_add_column_and_locales.sql", "data/Archivados/world/2025/11-2025/2025_11_16_01_Locales_Quest.SQL", "data/Archivados/world/2025/11-2025/2025_11_23_00_Locales_esES_Zona_Inicio_Goblins.SQL", "data/Archivados/world/2025/11-2025/2025_11_25_00_locales_esES_Zona_inicio_Goblins_2.SQL", "data/Archivados/world/2025/11-2025/2025_11_25_01_Locales_esES_quest_25267.SQL", "data/Archivados/world/2025/11-2025/2025_11_25_02_Locales_esES_quest_25275.SQL", "data/Archivados/world/2025/12-2025/2025_12_02_00_Locales_esES_varios.SQL", "data/Archivados/world/2025/12-2025/2025_12_02_01_NPC_16256.SQL", "data/Archivados/world/2025/12-2025/2025_12_04 NPC_18266.SQL", "data/Archivados/world/2025/12-2025/2025_12_04 NPC_26949.SQL", "data/Archivados/world/2025/12-2025/2025_12_04 TEXT_NPC_17969.SQL", "data/Archivados/world/2025/12-2025/2025_12_06 Locales_esES_varios_2.SQL", "data/Archivados/world/2025/12-2025/2025_12_07 db_errors.sql", "data/Archivados/world/2025/12-2025/2025_12_07 olympus_coins.sql", "data/Archivados/world/2025/12-2025/2025_12_08 update_token_de_profesion.sql", "data/Archivados/world/2025/12-2025/2025_12_09 delete_item_custom.sql", "data/Archivados/world/2025/12-2025/2025_12_10 update_vip.sql", "data/Archivados/world/2025/12-2025/2025_12_11_01 olympus_service.sql", "data/Archivados/world/2025/12-2025/2025_12_11_02 item_comerciables.sql", "data/Archivados/world/2025/12-2025/2025_12_13 store_ingame_npc.sql", "data/Archivados/world/2025/12-2025/2025_12_14 npc_buff_and_transmogrifier.sql", "data/Archivados/world/2025/12-2025/2025_12_15 delete_conditions.sql", "data/Archivados/world/2025/12-2025/2025_12_15 game_event_prequisite.sql", "data/Archivados/world/2025/12-2025/2025_12_16 spell_no_existe.sql", "data/Archivados/world/2025/12-2025/2025_12_18 add_npc.sql", "data/Archivados/world/2025/12-2025/2025_12_19 logros_scripts.sql", "data/Archivados/world/2025/12-2025/2025_12_19 skill_discovery_template.sql", "data/Archivados/world/2025/12-2025/2025_12_20 scriptname_no_existe.SQL", "data/Archivados/world/2025/12-2025/2025_12_20_01 NPC_18417_Broadcast_locales_esES.SQL", "data/Archivados/world/2025/12-2025/2025_12_20_02 Locales_esES_varios_3.SQL", "data/Archivados/world/2025/12-2025/2025_12_20_03 Locales_esES_varios_3.SQL", "data/Archivados/world/2025/12-2025/2025_12_20_04 Locales_esES_Zona_Worgen.SQL", "data/Archivados/world/2025/12-2025/2025_12_20_05 Locales_esEs_Zona_Draenei.SQL", "data/Archivados/world/2025/12-2025/2025_12_20_06 correcion_de_errores.SQL", "data/Archivados/world/2025/12-2025/2025_12_22 boost_profession.SQL", "data/Archivados/world/2025/12-2025/2025_12_28 update_world.sql", "data/Archivados/world/2025/12-2025/2025_12_28 ysera.sql", "data/Archivados/world/2025/12-2025/2025_12_28_00 Quest_770.SQL", "data/Archivados/world/2025/12-2025/2025_12_28_01 Locales_esES_varios_4.SQL", "data/Archivados/world/2026/01-2026/2026_01_06 Locales_esES_varios_4.SQL", "data/Archivados/world/2026/01-2026/2026_01_06_01 npc_store_ingame.SQL", "data/Archivados/world/2026/01-2026/2026_01_10 Call_to_Arms_Alterac_Valley.sql", "data/Archivados/world/2026/01-2026/2026_01_10 Call_to_Arms_Arathi_Basin.sql", "data/Archivados/world/2026/01-2026/2026_01_10 Call_to_Arms_Eye_of_the_Storm.sql", "data/Archivados/world/2026/01-2026/2026_01_10 Call_to_Arms_Isle_of_Conquest.sql", "data/Archivados/world/2026/01-2026/2026_01_10 Call_to_Arms_Strand_of_the_Ancients.sql", "data/Archivados/world/2026/01-2026/2026_01_10 Call_to_Arms_The_Battle_for_Gilneas.sql", "data/Archivados/world/2026/01-2026/2026_01_10 Call_to_Arms_Twin_Peaks.sql", "data/Archivados/world/2026/01-2026/2026_01_10 Call_to_Arms_Warsong_Gulch.sql", "data/Archivados/world/2026/01-2026/2026_01_10 delete_gameobject.sql", "data/Archivados/world/2026/01-2026/2026_01_11 item_posion_de_ilusion.sql", "data/Archivados/world/2026/01-2026/2026_01_13 game_event.sql", "data/Archivados/world/2026/01-2026/2026_01_14 boost_level_guild.sql", "data/Archivados/world/2026/01-2026/2026_01_16 abalorio_spell_proc.sql", "data/Archivados/world/2026/01-2026/2026_01_16 arma_nokaled.sql", "data/Archivados/world/2026/01-2026/2026_01_18 fix_quest_10935.sql", "data/Archivados/world/2026/01-2026/2026_01_18 npc_scripts.sql", "data/Archivados/world/2026/01-2026/2026_01_19 quest_orillas_crespusculares.sql", "data/Archivados/world/2026/01-2026/2026_01_19 scourge_gryphon.sql", "data/Archivados/world/2026/01-2026/2026_01_19 start_waypoint.sql", "data/Archivados/world/2026/01-2026/2026_01_26 world_boss_garr.sql", "data/Archivados/world/2026/01-2026/2026_01_26 world_update.sql", "data/base/auth.sql", "data/update/world/2026_02_06 bastion_del_crepusculo.sql", "data/update/world/2026_02_06 creature_equipment.sql", "data/update/world/2026_02_06 mobs_trash_grim_batol.sql", "data/update/world/2026_02_06 wayipoint_kalecgos.sql", "data/update/world/2026_02_06 wayipoint_tobias_mistmantle.sql", "data/update/world/2026_02_06 wayipoint_verlok_pillartumbler.sql"]
+  },
+  {
+    "commit": "1e35044f7096f91785632a9acad0a6e67f3bdbc3",
+    "author": "ReXol",
+    "date": "Wed Feb 11 08:45:32 2026 -0500",
+    "message": "Create 2026_02_12 spawn_event_love_is_in_the_air.sql",
+    "files": ["data/update/world/2026_02_12 spawn_event_love_is_in_the_air.sql"]
+  },
+  {
+    "commit": "c9f6b6e42d5b1e671fa7c63ccab4b4eb5511be39",
+    "author": "ReXol",
+    "date": "Wed Feb 11 21:34:56 2026 -0500",
+    "message": "Create 2026_02_12 remove_disables.sql",
+    "files": ["data/update/world/2026_02_12 remove_disables.sql"]
+  },
+  {
+    "commit": "0c59ea16c3b79c54530f6df10ca7112f6d2f0bbb",
+    "author": "ReXol",
+    "date": "Sat Mar 7 09:34:52 2026 -0500",
+    "message": "Game/Olympus",
+    "files": ["src/server/game/CMakeLists.txt", "src/server/game/Olympus/VerificationMgr.cpp", "src/server/game/Olympus/VerificationMgr.h", "src/server/game/World/World.cpp", "src/server/game/World/World.h", "src/server/worldserver/worldserver.conf.dist"]
+  },
+  {
+    "commit": "e73ab2357ef0bf251971b08d5a14d9bcf6aef554",
+    "author": "ReXol",
+    "date": "Sat Mar 21 12:22:29 2026 -0400",
+    "message": "Create 2026_03_20 creature_equipment.sql",
+    "files": ["data/update/world/2026_03_20 creature_equipment.sql"]
+  },
+  {
+    "commit": "704d7a90cddcb71a668ddfe0653ff5cc30e513ba",
+    "author": "ReXol",
+    "date": "Tue Mar 24 03:12:32 2026 -0400",
+    "message": "Revert",
+    "files": ["dep/PackageList.txt", "dep/zlib/adler32.c", "dep/zlib/compress.c", "dep/zlib/crc32.c", "dep/zlib/crc32.h", "dep/zlib/deflate.c", "dep/zlib/deflate.h", "dep/zlib/gzguts.h", "dep/zlib/gzlib.c", "dep/zlib/gzread.c", "dep/zlib/gzwrite.c", "dep/zlib/infback.c", "dep/zlib/inffast.c", "dep/zlib/inflate.c", "dep/zlib/inflate.h", "dep/zlib/inftrees.c", "dep/zlib/trees.c", "dep/zlib/uncompr.c", "dep/zlib/zconf.h", "dep/zlib/zlib.h", "dep/zlib/zutil.c", "dep/zlib/zutil.h", "src/server/game/DataStores/DBCStores.cpp", "src/server/game/DataStores/DBCStores.h", "src/server/game/DataStores/DBCStructure.h", "src/server/game/DataStores/DBCfmt.h", "src/server/game/Entities/Player/Player.cpp", "src/server/game/Entities/Player/Player.h", "src/server/game/Entities/Unit/Unit.cpp", "src/server/game/Entities/Unit/Unit.h"]
+  },
+  {
+    "commit": "7c8dcda89c6721ef4898373cb9b21a6cfab928a5",
+    "author": "ReXol",
+    "date": "Thu Mar 26 11:09:14 2026 -0400",
+    "message": "Dungeon/WOE Fix mano de Azshara",
+    "files": ["src/server/scripts/Kalimdor/CavernsOfTime/WellOfEternity/boss_queen_azshara.cpp"]
+  },
+  {
+    "commit": "252e837dc977ae47a049ea0e4cc1f4126cf48819",
+    "author": "ReXol",
+    "date": "Thu Mar 26 11:38:03 2026 -0400",
+    "message": "Arena/soloqueue fix perdida de talento (test)",
+    "files": ["src/server/game/Battlegrounds/BattlegroundQueue.cpp", "src/server/scripts/Custom/soloqueue_npc.cpp"]
+  },
+  {
+    "commit": "6d4a0e46f66f0e22baca495bdbade943a04493d2",
+    "author": "ReXol",
+    "date": "Thu Mar 26 22:09:51 2026 -0400",
+    "message": "Create 2026_03_26 npc_57160_puntos_de_valor_removidos .sql",
+    "files": ["data/update/world/2026_03_26 npc_57160_puntos_de_valor_removidos .sql"]
+  },
+  {
+    "commit": "e25325d045e5b961ee8605eaa68b52cdc5721c55",
+    "author": "ReXol",
+    "date": "Thu Mar 26 22:23:01 2026 -0400",
+    "message": "Create 2026_03_26 npc_57890_correccion_de_spawn.sql",
+    "files": ["data/update/world/2026_03_26 npc_57890_correccion_de_spawn.sql"]
+  },
+  {
+    "commit": "ede2c88cab9abc45f4d3cf21231aaa12b5c58ee5",
+    "author": "ReXol",
+    "date": "Thu Mar 26 23:58:53 2026 -0400",
+    "message": "Dungeon/CullingOfStratholme fix mision disipando ilusiones",
+    "files": ["src/server/scripts/Kalimdor/CavernsOfTime/CullingOfStratholme/culling_of_stratholme.h", "src/server/scripts/Kalimdor/CavernsOfTime/CullingOfStratholme/instance_culling_of_stratholme.cpp"]
+  },
+  {
+    "commit": "e0d9261dce624043b9c48e33d31cae12e80c983b",
+    "author": "ReXol",
+    "date": "Sun Mar 29 12:13:48 2026 -0400",
+    "message": "Create 2026_03_29 fix_portal_zona_dk.sql",
+    "files": ["data/update/world/2026_03_29 fix_portal_zona_dk.sql"]
+  },
+  {
+    "commit": "baffc0a846315347d7fa446fade9882d06b87c70",
+    "author": "ReXol",
+    "date": "Sun Mar 29 14:53:14 2026 -0400",
+    "message": "Script/Promotion actulizado: agregado nuevos ajustes en cuanto a personajes maximo y exploit por vpn",
+    "files": ["data/update/auth/2026_03_29 account_promotion_log.sql", "src/server/scripts/Custom/Mod_Level_Booster.cpp", "src/server/worldserver/worldserver.conf.dist"]
+  },
+  {
+    "commit": "afae14d1903be8b3ebd79c1461a05b15a75a1d0e",
+    "author": "ReXol",
+    "date": "Mon Mar 30 08:41:27 2026 -0400",
+    "message": "Dungeon/CullingOfStratholme Spawn npc Corruptor Infinito",
+    "files": ["data/update/world/2026_03_29 spawn_npc_infinite_corruptor.sql", "src/server/scripts/Kalimdor/CavernsOfTime/CullingOfStratholme/instance_culling_of_stratholme.cpp"]
+  },
+  {
+    "commit": "5f06c2a668d57dd537c5d7cd84dcb319642b6d3a",
+    "author": "ReXol",
+    "date": "Mon Mar 30 08:50:13 2026 -0400",
+    "message": "Create 2026_03_30 spawn_npc_anzu.sql",
+    "files": ["data/update/world/2026_03_30 spawn_npc_anzu.sql"]
+  },
+  {
+    "commit": "dd76d3577d2c5f459102788f803cd50434040f63",
+    "author": "ReXol",
+    "date": "Tue Mar 31 10:31:44 2026 -0400",
+    "message": "Raid/DragonSoul fix crash spinazo",
+    "files": ["src/server/scripts/Kalimdor/CavernsOfTime/DragonSoul/boss_dw_spine.cpp"]
+  },
+  {
+    "commit": "5c5f1efd4c6fbab7ea2b0fe71cae78dcbf64e672",
+    "author": "ReXol",
+    "date": "Sat Apr 4 17:53:43 2026 -0400",
+    "message": "Core/Evento Mi mayor arrepentimiento (part1)",
+    "files": ["data/evento/arrepentimiento.sql", "src/server/scripts/Custom/arrepentimiento.cpp", "src/server/scripts/Custom/custom_script_loader.cpp"]
+  },
+  {
+    "commit": "52e474979eeefe366e3663d7ed02e9301a2116d0",
+    "author": "ReXol",
+    "date": "Sat Apr 4 17:56:58 2026 -0400",
+    "message": "Core/Evento Mi mayor arrepentimiento (add npc)",
+    "files": ["data/evento/arrepentimiento.sql"]
+  },
+  {
+    "commit": "a41e21259342db759ec891f747562855fa3e5de7",
+    "author": "ReXol",
+    "date": "Sat Apr 4 17:58:39 2026 -0400",
+    "message": "Update arrepentimiento.sql",
+    "files": ["data/evento/arrepentimiento.sql"]
+  },
+  {
+    "commit": "a76cd32b05e3d5a4084e25f1207174fda63d86fd",
+    "author": "ReXol",
+    "date": "Wed Apr 8 16:58:20 2026 -0400",
+    "message": "archives sql",
+    "files": ["data/Archivados/world/2026/02-2026/2026_02_02 world_boss_mobus.sql", "data/Archivados/world/2026/02-2026/2026_02_06 bastion_del_crepusculo.sql", "data/Archivados/world/2026/02-2026/2026_02_06 creature_equipment.sql", "data/Archivados/world/2026/02-2026/2026_02_06 mobs_trash_grim_batol.sql", "data/Archivados/world/2026/02-2026/2026_02_06 wayipoint_kalecgos.sql", "data/Archivados/world/2026/02-2026/2026_02_06 wayipoint_tobias_mistmantle.sql", "data/Archivados/world/2026/02-2026/2026_02_06 wayipoint_verlok_pillartumbler.sql", "data/Archivados/world/2026/02-2026/2026_02_12 remove_disables.sql", "data/Archivados/world/2026/02-2026/2026_02_12 spawn_event_love_is_in_the_air.sql", "data/Archivados/world/2026/03-2026/2026_03_20 creature_equipment.sql", "data/Archivados/world/2026/03-2026/2026_03_26 npc_57160_puntos_de_valor_removidos .sql", "data/Archivados/world/2026/03-2026/2026_03_26 npc_57890_correccion_de_spawn.sql", "data/Archivados/world/2026/03-2026/2026_03_29 fix_portal_zona_dk.sql", "data/Archivados/world/2026/03-2026/2026_03_29 spawn_npc_infinite_corruptor.sql", "data/Archivados/world/2026/03-2026/2026_03_30 spawn_npc_anzu.sql", "data/evento/arrepentimiento.sql", "src/server/scripts/Custom/arrepentimiento.cpp", "src/server/scripts/Custom/custom_script_loader.cpp"]
+  },
+  {
+    "commit": "7178f0b3dd9ca7d5cc40d720ee038dffbd4a5b3f",
+    "author": "ReXol",
+    "date": "Fri Apr 10 14:22:51 2026 -0400",
+    "message": "Update README",
+    "files": ["README"]
+  },
+  {
+    "commit": "8039bf34f5d91d3d7be405a3d5c1ea7db0fa8b40",
+    "author": "parrilla12",
+    "date": "Sun Apr 12 02:16:44 2026 -0400",
+    "message": "Update database names in SQL dump files",
+    "files": ["data/base/auth.sql", "data/base/characters.sql"]
+  },
+  {
+    "commit": "8108517c85fb7d27fcedebbee523bbafb9ed23ec",
+    "author": "ReXol",
+    "date": "Sun Apr 19 17:24:38 2026 -0600",
+    "message": "Update README",
+    "files": ["README"]
+  },
+  {
+    "commit": "4b97e2d5a228f68bf6303f9e97df445120d2dc62",
+    "author": "ReXol",
+    "date": "Mon Apr 20 15:30:45 2026 -0600",
+    "message": "Update baradin 406.sql",
+    "files": ["data/Progresion/406/baradin 406.sql"]
+  },
+  {
+    "commit": "977309eddb965d3439285195feefe07721f321dc",
+    "author": "ReXol",
+    "date": "Mon Apr 20 15:39:15 2026 -0600",
+    "message": "promocion  set ilvl 339",
+    "files": ["src/server/scripts/Custom/Mod_Level_Booster.cpp"]
+  },
+  {
+    "commit": "dab92654abe516f6448a88f0da0c7e5400f2ab20",
+    "author": "ReXol",
+    "date": "Wed Apr 22 12:39:04 2026 -0600",
+    "message": "Progresi├│n parche 4.2.2",
+    "files": ["data/Progresion/parche 4.2.2.sql"]
+  },
+  {
+    "commit": "c117406e65d161889fb7fee95f4ba244694168f9",
+    "author": "ReXol",
+    "date": "Wed Apr 22 17:19:46 2026 -0600",
+    "message": "Update parche 4.2.2.sql",
+    "files": ["data/Progresion/parche 4.2.2.sql"]
+  },
+  {
+    "commit": "549c7028f1099ee9d49346a3ca1bf1d0b4e3aac4",
+    "author": "ReXol",
+    "date": "Wed Apr 22 17:20:36 2026 -0600",
+    "message": "ordenar",
+    "files": ["data/Progresion/422/parche 4.2.2_vendedores.sql"]
+  },
+  {
+    "commit": "53b7764077355a3f1bf8e3ea46ec85f605815c62",
+    "author": "ReXol",
+    "date": "Sun Apr 26 09:51:45 2026 -0400",
+    "message": "Core/System reputacion compartida",
+    "files": ["src/server/scripts/Custom/account_reputation.cpp", "src/server/scripts/Custom/custom_script_loader.cpp"]
+  },
+  {
+    "commit": "337190d3d9b64922cc433881e9c85f214f8a1e21",
+    "author": "ReXol",
+    "date": "Sun Apr 26 15:38:33 2026 -0400",
+    "message": "Core/IA traducido bothelper",
+    "files": ["src/server/game/AI/NpcBots/botcommands.cpp", "src/server/game/AI/NpcBots/bothelper.cpp"]
+  },
+  {
+    "commit": "02dbfec2d4a38f46dd65bc9e4394c9dfb1f9c4e3",
+    "author": "parrilla12",
+    "date": "Wed Apr 29 20:27:08 2026 -0400",
+    "message": "Set CMake policy CMP0005 to NEW",
+    "files": ["CMakeLists.txt"]
+  },
+  {
+    "commit": "554e19515a241f7ffd4c2c12bbc0b14e66b0b231",
+    "author": "ReXol",
+    "date": "Wed Apr 29 21:27:51 2026 -0400",
+    "message": "Revert \"Set CMake policy CMP0005 to NEW\"",
+    "files": ["CMakeLists.txt"]
+  },
+  {
+    "commit": "e37c45331d621e3fab14ac301db8344afab32d39",
+    "author": "ReXol",
+    "date": "Wed Apr 29 22:04:06 2026 -0400",
+    "message": "Fix mail hook, combat logic, and version string (#5)",
+    "files": ["src/server/game/Mails/Mail.cpp", "src/server/scripts/Kalimdor/Firelands/boss_majordomo_staghelm.cpp", "src/server/scripts/Northrend/IcecrownCitadel/boss_professor_putricide.cpp", "src/server/shared/GitRevision.cpp"]
+  },
+  {
+    "commit": "8b8eaa98cb153a17d3aff7fb11fe06dc23bd82c6",
+    "author": "ReXol",
+    "date": "Thu Apr 30 08:43:51 2026 -0400",
+    "message": "Rama secundaria (#6)",
+    "files": ["src/server/game/Entities/Pet/Pet.cpp", "src/server/game/Entities/Player/Player.cpp", "src/server/game/Entities/Unit/Unit.cpp", "src/server/game/Spells/SpellMgr.cpp", "src/server/scripts/World/npcs_special.cpp"]
+  },
+  {
+    "commit": "0d8c558091627eb851464312a6631237ba77737b",
+    "author": "parrilla12",
+    "date": "Thu Apr 30 13:14:22 2026 -0400",
+    "message": "Merge branch 'main' of https://github.com/jorge990125/Olympus-Cata",
+    "files": []
+  },
+  {
+    "commit": "eddf7704b8ca20f9d8ffca177e93328db14f7290",
+    "author": "ReXol",
+    "date": "Fri May 1 10:43:04 2026 -0400",
+    "message": "Update CMakeLists.txt",
+    "files": ["CMakeLists.txt"]
+  },
+  {
+    "commit": "9654383ce173dc98c7a6fd1c0a9a58b12ced3c75",
+    "author": "ReXol",
+    "date": "Sat May 2 14:46:28 2026 -0400",
+    "message": "Core/Unit Fix perdida de puntos de conquista al usar .level 85 (testear)",
+    "files": ["src/server/game/Entities/Player/Player.h", "src/server/game/Entities/Unit/Unit.cpp"]
+  },
+  {
+    "commit": "305352c93a8a45ffdbf1583be976fd721e348a09",
+    "author": "parrilla12",
+    "date": "Sat May 2 15:54:18 2026 -0400",
+    "message": "Replace SetLevel calls with GiveLevel",
+    "files": ["src/server/scripts/Custom/Mod_Level_Booster.cpp", "src/server/scripts/Custom/level_up.cpp"]
+  },
+  {
+    "commit": "5b0322273cf114873263c5719a66632d2e4fd400",
+    "author": "ReXol",
+    "date": "Mon May 4 11:16:42 2026 -0400",
+    "message": "Banda/BOT fix consejo de ascendentes (#7)",
+    "files": ["src/server/scripts/EasternKingdoms/BastionOfTwilight/boss_ascendant_council.cpp"]
+  },
+  {
+    "commit": "4418348aa54af8d74f0605c759a73f12653ffaf4",
+    "author": "parrilla12",
+    "date": "Mon May 4 21:03:01 2026 -0400",
+    "message": "Correcion a \"Entidad desconocida\" Correcion de mec├ínicas de El N├║cleo P├®treo y estabiliza el relog en instancias guardadas",
+    "files": ["data/solocraft/characters/2026_05_04 solocraft_character_stats_fix.sql", "src/server/game/Entities/Player/Player.cpp", "src/server/game/Handlers/CharacterHandler.cpp", "src/server/game/Maps/Map.cpp", "src/server/scripts/Custom/solocraft.cpp", "src/server/scripts/Maelstrom/TheStonecore/boss_slabhide.cpp", "src/server/scripts/Maelstrom/TheStonecore/instance_the_stonecore.cpp"]
+  },
+  {
+    "commit": "e158427ee1d9d59670f7f7e5585b148640603baa",
+    "author": "parrilla12",
+    "date": "Mon May 4 23:19:05 2026 -0400",
+    "message": "Make pets assist immediately on player attack",
+    "files": ["src/server/game/Handlers/CombatHandler.cpp"]
+  },
+  {
+    "commit": "966d74927279ab4c8cb7515658180b3a4d9b30b1",
+    "author": "parrilla12",
+    "date": "Tue May 5 00:42:59 2026 -0400",
+    "message": "Improve pet AI behavior on player attack/stop",
+    "files": ["src/server/game/Handlers/CombatHandler.cpp", "src/server/game/Handlers/MiscHandler.cpp"]
+  },
+  {
+    "commit": "272e7e7298e653f98a7708ec9d6a7151fde56a1a",
+    "author": "parrilla12",
+    "date": "Tue May 5 02:43:22 2026 -0400",
+    "message": "Adjust Akil'zon melee damage template",
+    "files": ["data/update/world/2026_05_05_fix_zulaman_akilzon_damage.sql"]
+  },
+  {
+    "commit": "4d9fdb1353f7d9cc9b7e331ae20943c84baa5545",
+    "author": "ReXol",
+    "date": "Tue May 5 08:02:17 2026 -0400",
+    "message": "Delete 2026_01_11 solocraft_character_stats.sql",
+    "files": ["data/solocraft/characters/2026_01_11 solocraft_character_stats.sql"]
+  },
+  {
+    "commit": "b5a76449d6d3fd1089b950bd43bc2751373af5ed",
+    "author": "parrilla12",
+    "date": "Wed May 6 15:38:46 2026 -0400",
+    "message": "Add form yells and clean up Nalorakk events",
+    "files": ["src/server/scripts/EasternKingdoms/ZulAman/boss_nalorakk.cpp"]
+  },
+  {
+    "commit": "0ab07ab62cfea800e367a9cd16875656aad6d634",
+    "author": "parrilla12",
+    "date": "Wed May 6 16:23:23 2026 -0400",
+    "message": "Ajusta posiciones de los acompa├▒antes de Beauty (#12)",
+    "files": ["src/server/scripts/EasternKingdoms/BlackrockCaverns/boss_beauty.cpp"]
   }
 ]
