@@ -1,0 +1,6 @@
+2026-05-09 18:56:41 - Licencia guardada en BD: VTBD-QLAF-GCIM-THGS
+2026-05-09 18:56:41 - Licencia generada: VTBD-QLAF-GCIM-THGS para a534638d455883c1db19d548bb199e82dd8570939171dbe787277d9dd01708f8 por usuario: admin
+2026-05-09 18:57:02 - Licencia guardada en BD: YOHR-TRXZ-KBOX-DDJJ
+2026-05-09 18:57:02 - Licencia generada: YOHR-TRXZ-KBOX-DDJJ para fc5996efa631daecfa3747aea2f0e4d5d68abd94a6616a1bc6cd1ef5edca77c6 por usuario: vip
+2026-05-09 18:57:25 - ERROR guardando en BD: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'YOHR-TRXZ-KBOX-DDJJ' for key 'license_key'
+2026-05-09 18:57:25 - Licencia generada: YOHR-TRXZ-KBOX-DDJJ para D8903A045B6A2A701B368FC02BEEA4E01FA8C9E8B1B267204C5EE7D8228A por usuario: 

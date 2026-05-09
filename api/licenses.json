@@ -1,0 +1,37 @@
+{
+    "licenses": [
+        {
+            "uid": "USER067688",
+            "license_key": "VTBD-QLAF-GCIM-THGS",
+            "key": "VTBD-QLAF-GCIM-THGS",
+            "hwid": "a534638d455883c1db19d548bb199e82dd8570939171dbe787277d9dd01708f8",
+            "expansion": 4,
+            "active": true,
+            "created_at": "2026-05-09 18:56:41",
+            "expires_at": "2026-06-08 18:56:41",
+            "created_by": "admin"
+        },
+        {
+            "uid": "USER874507",
+            "license_key": "YOHR-TRXZ-KBOX-DDJJ",
+            "key": "YOHR-TRXZ-KBOX-DDJJ",
+            "hwid": "fc5996efa631daecfa3747aea2f0e4d5d68abd94a6616a1bc6cd1ef5edca77c6",
+            "expansion": 4,
+            "active": true,
+            "created_at": "2026-05-09 18:57:02",
+            "expires_at": "2026-06-08 18:57:02",
+            "created_by": "vip"
+        },
+        {
+            "uid": "USER929837",
+            "license_key": "YOHR-TRXZ-KBOX-DDJJ",
+            "key": "YOHR-TRXZ-KBOX-DDJJ",
+            "hwid": "D8903A045B6A2A701B368FC02BEEA4E01FA8C9E8B1B267204C5EE7D8228A",
+            "expansion": 4,
+            "active": true,
+            "created_at": "2026-05-09 18:57:25",
+            "expires_at": "2026-06-08 18:57:25",
+            "created_by": ""
+        }
+    ]
+}
