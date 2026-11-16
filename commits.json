@@ -4465,5 +4465,55 @@
     "date": "Thu Oct 22 09:28:47 2026 -0400",
     "message": "InitVisibilityDistance",
     "files": ["src/server/game/Maps/Map.cpp"]
+  },
+  {
+    "commit": "c5b2045a3a1796c8703dbbf5b7b31c3bca722c41",
+    "author": "ReXol",
+    "date": "Sun Oct 25 06:18:36 2026 -0400",
+    "message": "Update bothelper.cpp",
+    "files": ["src/server/game/AI/NpcBots/bothelper.cpp"]
+  },
+  {
+    "commit": "8c26f9a3d7661ff6aef178568f8d1607468cb37e",
+    "author": "ReXol",
+    "date": "Sun Oct 25 06:19:48 2026 -0400",
+    "message": "feat(npc_teleport): agregar botón \"Atrás\" en menús de Mazmorras y Bandas",
+    "files": ["src/server/scripts/Custom/Mod_Teleport.cpp"]
+  },
+  {
+    "commit": "0def83296e79ecfc17e8f56fa8bdf5c10cbc6b68",
+    "author": "ReXol",
+    "date": "Thu Nov 12 17:35:16 2026 -0500",
+    "message": "Update worldserver.conf.dist",
+    "files": ["src/server/worldserver/worldserver.conf.dist"]
+  },
+  {
+    "commit": "cd5dff21490cb104b3a61f3f47aacd4833482d6c",
+    "author": "ReXol",
+    "date": "Thu Nov 12 17:40:16 2026 -0500",
+    "message": "Update worldserver.conf.dist",
+    "files": ["src/server/worldserver/worldserver.conf.dist"]
+  },
+  {
+    "commit": "6b3692c6943b19efe2f186eb8010fb335c6a7901",
+    "author": "ReXol",
+    "date": "Thu Nov 12 17:48:22 2026 -0500",
+    "message": "feat(scripts): mover nivel, dinero e ítems del Level Booster configuración del worldserver.conf",
+    "files": ["src/server/scripts/Custom/Mod_Level_Booster.cpp", "src/server/worldserver/worldserver.conf.dist"]
+  },
+  {
+    "commit": "443417894d9ddad8402c1aec27d240ffb9856870",
+    "author": "ReXol",
+    "date": "Sun Nov 15 06:13:40 2026 -0500",
+    "message": "Nuevo sistema Mercado Negro",
+    "files": ["addon/BlackMarket/BlackMarket.lua", "addon/BlackMarket/BlackMarket.toc", "data/BlackMarket/characters/2026_11_15_black_market_characters.sql", "data/BlackMarket/world/2026_11_15_black_market_world.sql", "src/server/scripts/Custom/BlackMarket/BlackMarket.cpp", "src/server/scripts/Custom/BlackMarket/BlackMarket.h", "src/server/scripts/Custom/BlackMarket/BlackMarketAddon.cpp", "src/server/scripts/Custom/BlackMarket/BlackMarketScripts.cpp", "src/server/scripts/Custom/custom_script_loader.cpp", "src/server/worldserver/worldserver.conf.dist"]
+  },
+  {
+    "commit": "ba83882947bb34619351b5a594150633e54f96af",
+    "author": "ReXol",
+    "date": "Mon Nov 16 03:11:12 2026 -0500",
+    "message": "Fix crash mercado negro",
+    "files": ["src/server/scripts/Custom/BlackMarket/BlackMarket.cpp", "src/server/scripts/Custom/BlackMarket/BlackMarket.h", "src/server/scripts/Custom/BlackMarket/BlackMarketAddon.cpp", "src/server/scripts/Custom/BlackMarket/BlackMarketScripts.cpp", "src/server/scripts/Custom/account_reputation.cpp"]
   }
 ]
+
